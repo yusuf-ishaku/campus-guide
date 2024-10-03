@@ -59,7 +59,7 @@ let showMap = ref(false)
     class="w-[100vw] absolute h-[100vh] flex items-center justify-center z-[9999]"
   >
   <span class="text-white">
-    <img width="150" height="150" src="../assets/images/miversity-logo.jpg"/>
+    <span class="text-blue-400 text-lg upperCase">Campus Guide</span>
   </span>
   </VuePreloader>
 </template>
